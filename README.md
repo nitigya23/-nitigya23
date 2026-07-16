@@ -131,8 +131,8 @@
 
 </div>
 <h3>Let's connect </h3>
-- <h2> LinkedIn: www.linkedin.com/in/nitigyatalwar </h2>
-- <h2> Email: nitigyatalwar@gmail.com </h2>
+ <h2> LinkedIn: www.linkedin.com/in/nitigyatalwar </h2>
+ <h2> Email: nitigyatalwar@gmail.com </h2>
 
 
 
