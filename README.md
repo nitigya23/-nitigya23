@@ -122,7 +122,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nitigya23&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nitigya23&theme=tokyonight&hide_border=false"/>
 
 </p>
 
