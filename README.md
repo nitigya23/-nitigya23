@@ -121,10 +121,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=nitigya23&theme=tokyonight&hide_border=true"/>
-
-
 </p>
 
 
